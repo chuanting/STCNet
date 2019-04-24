@@ -1,4 +1,5 @@
-﻿## Source code for our paper entitled "Deep Transfer Learning for Intelligent Wireless Traffic Prediction Based on Cross-Domain Big Data"
+﻿### Source code for our paper entitled "Deep Transfer Learning for Intelligent Wireless Traffic Prediction Based on Cross-Domain Big Data"
+see our [paper](https://chuanting.github.io/pdf/ieee_jsac_2019.pdf) for more details.
 ### Requirements
 System: Ubuntu 16.04 LTS with GeForce GTX TITAN X, 64 bit OS 
 
@@ -38,4 +39,4 @@ There are others parameters can be set, please see the code for details.
 
 
 ### Note
-As the last week of this dataset contains the New Year Eve period, so for that specific data point, we do not predict it as it is a very challenging task to predict such "outliers". We use a simple linear prediction, that is, $$y_t = (y_{t-1}+y_{t-2}+y_{t-3})/3$$.
+As the last week of this dataset contains the New Year's Eve, so for that specific data point, we do not predict it as it is a very challenging task to predict such "outliers". We use a simple linear prediction, that is, $y_t = (y_{t-1}+y_{t-2}+y_{t-3})/3$.
