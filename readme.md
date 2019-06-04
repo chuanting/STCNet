@@ -1,6 +1,6 @@
 ﻿### Source code for our paper entitled "Deep Transfer Learning for Intelligent Wireless Traffic Prediction Based on Cross-Domain Big Data"
 
-The datasets are available at folders of ***Github_Version/data/***. Feel free to download it and test our algorithm.
+The datasets are available in folders of ***Github_Version/data/***. Feel free to download it and test our algorithm.
 
 see our [paper](https://chuanting.github.io/pdf/ieee_jsac_2019.pdf) for more details.
 ### Requirements
