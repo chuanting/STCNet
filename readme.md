@@ -6,6 +6,8 @@ see our [paper](https://chuanting.github.io/pdf/ieee_jsac_2019.pdf) for more det
 
 Note that if you use *git clone* command to clone this project, the dataset maybe not properly downloaded. If this is the case for you, please go to the directory ***STCNet/Github_Version/data/data_git_version.7z*** and click ***view raw***, this operation will manually download the dataset.
 
+Or maybe you need to install [Git LFS](https://git-lfs.github.com/) to sucessfully clone this project.
+
 
 ### Requirements
 System: Ubuntu 16.04 LTS with GeForce GTX TITAN X, 64 bit OS 
