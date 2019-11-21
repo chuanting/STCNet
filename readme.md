@@ -8,6 +8,10 @@ Note that if you use *git clone* command to clone this project, the dataset mayb
 
 Or maybe you need to install [Git LFS](https://git-lfs.github.com/) to sucessfully clone this project.
 
+## Script that generates the H5 file is included
+
+As there are so many people that wrote to me asking how to generate the H5 file. So I made this avaliable for other people convience. Please find the code at the ***Github_Version/data/***.
+
 
 ### Requirements
 System: Ubuntu 16.04 LTS with GeForce GTX TITAN X, 64 bit OS 
