@@ -52,4 +52,4 @@ There are others parameters can be set, please see the code for details.
 
 
 ### Note
-As the last week of this dataset contains the New Year's Eve, so for that specific data point, we do not predict it as it is a very challenging task to predict such "outliers". We use a simple linear prediction, that is, $y_t = (y_{t-1}+y_{t-2}+y_{t-3})/3$.
+As the last week of this dataset contains the New Year's Eve, so for that specific data point, we do not predict it as it is a very challenging task to predict such "outliers". We use a simple linear prediction, that is, $y_t = (y_{t-1}+y_{t-2}+y_{t-3})/3*n$.
