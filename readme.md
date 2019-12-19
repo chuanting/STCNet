@@ -4,7 +4,7 @@ The datasets are available in folders of ***Github_Version/data/***. Feel free t
 
 see our [paper](https://chuanting.github.io/pdf/ieee_jsac_2019.pdf) for more details.
 
-## How to download our shared data
+## How to download our shared data (new)
 
 Note that if you use *git clone* command to clone this project, the dataset maybe not properly downloaded. If this is the case for you, please go to the directory ***STCNet/Github_Version/data/data_git_version.7z*** and click ***view raw***, this operation will manually download the dataset.
 
