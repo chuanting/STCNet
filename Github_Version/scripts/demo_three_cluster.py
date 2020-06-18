@@ -309,7 +309,7 @@ if __name__ == '__main__':
         labels_df['cur_label'] = 0
         labels_df['cur_label'][labels_df['cluster_label'] == int(cluster_id)] = 1
         cell_idx = labels_df['cur_label'] == 1
-        cell_idx = np.reshape(cell_idx, (height, width))
+        cell_idx = np.reshape(cell_idx.values, (height, width))
 
         y_train = y_tr * cell_idx
         y_test = y_te * cell_idx
