@@ -6,6 +6,8 @@ see our [paper](https://chuanting.github.io/pdf/ieee_jsac_2019.pdf) for more det
 
 ## How to download our shared data (new)
 
+For someone that can not download our data from this repo, please find it at google drive: https://drive.google.com/file/d/1ITSRwdGOra1wZxeZyC4d48_AYvmAcJeE/view?usp=sharing 
+
 Note that if you use *git clone* command to clone this project, the dataset maybe not properly downloaded. If this is the case for you, please go to the directory ***STCNet/Github_Version/data/data_git_version.7z*** and click ***view raw***, this operation will manually download the dataset.
 
 Or maybe you need to install [Git LFS](https://git-lfs.github.com/) to sucessfully clone this project.
